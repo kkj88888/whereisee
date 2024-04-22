@@ -1,0 +1,20 @@
+header{
+	background-color: khaki;
+	font-size: 5vh;
+}
+article{
+	background-color: darkkhaki;
+	padding: 10px;
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+	align-items: center;
+}
+section{
+	border: 2px dotted ;
+	width: 600px;
+}
+p{
+	background-color: lemonchiffon;
+}

@@ -1,0 +1,13 @@
+header{
+	padding: 20px;
+	font-size: 5vh;
+	background: linear-gradient(salmon,skyblue);
+}
+article{
+	display: flex;
+	flex-direction: column;
+}
+section{
+	border: dotted 2px ;
+	background: linear-gradient(khaki,skyblue);
+}
